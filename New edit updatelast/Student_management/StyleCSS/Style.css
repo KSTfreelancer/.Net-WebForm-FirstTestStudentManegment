@@ -1,0 +1,83 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.over_box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../img/pexels-agung-pandit-wiguna-3401403.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    
+    
+}
+.box {
+    width: 50%;
+    max-width: 500px;
+    padding: 20px 15px 40px 15px;
+    border-radius: 10px;
+    margin: 20px 0px;
+    box-shadow: 0 0 15px 0 rgba(0,0,0,0.8);
+    backdrop-filter: blur(5px);
+}
+.joro {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Lobster', cursive;
+}
+.box .labl{
+    font-size: 14px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.over_box .box input{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.over_box .box input::placeholder{
+    font-family: 'Lobster', cursive;
+}
+.gritstyle {
+    background-color: rgba(0,0,0,0.5);
+}
+tr.myclass a {
+    padding:5px;
+    text-decoration: none;
+}
+.editInpit input[type="text"] {
+    width: 100%;
+    padding: 0 10px;
+    box-shadow: 0 0 5px 0 rgba(255,255,255,0.4);
+    border: none;
+    border-radius:5px;
+}
+.editInpit input[type="text"]:focus {
+        background-color: lightblue;
+        outline: none;
+        font-size: 18px;
+        border-radius: 5px;
+        font-family:Arial;
+        box-shadow: 0 0 5px 0 rgba(255,255,255,0.7);
+}
+/*.over_box.popUp {
+    background: none;
+    background-color: rgba(255,255,255,0.5);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100vh;
+    display:none;
+}*/
+
+
+@media(max-width:767px) {
+    .box{
+        width:90%;
+    }
+    
+}

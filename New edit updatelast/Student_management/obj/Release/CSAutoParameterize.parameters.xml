@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Student_manegmentConnectionString-Web.config Connection String" description="Student_manegmentConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=.;Initial Catalog=Student_manegment;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="I:\\C\#\\new\ project\\New\ edit\ updatelast\\Student_management\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Student_manegmentConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

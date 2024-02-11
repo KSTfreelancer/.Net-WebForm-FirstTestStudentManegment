@@ -1,0 +1,869 @@
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Student_management.dll.config
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Student_management.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Student_management.pdb
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\csc.exe
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\csc.exe.config
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\csc.rsp
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\csi.exe
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\csi.exe.config
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\csi.rsp
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.AppContext.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Collections.Immutable.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Console.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Globalization.Calendars.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.IO.Compression.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.IO.FileSystem.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Net.Http.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Net.Sockets.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.ValueTuple.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Xml.XPath.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\vbc.exe
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\vbc.exe.config
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\vbc.rsp
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\VBCSCompiler.exe
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\roslyn\VBCSCompiler.exe.config
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Antlr3.Runtime.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\AspNet.ScriptManager.jQuery.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Microsoft.Web.Infrastructure.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Newtonsoft.Json.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\System.Web.Optimization.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\WebGrease.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\System.Web.Optimization.xml
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Newtonsoft.Json.xml
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Antlr3.Runtime.pdb
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Mamun\Student Manegment new\Student_management\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mamun\Student Manegment new\Student_management\Student_management\obj\Debug\Student_management.csproj.AssemblyReference.cache
+D:\Mamun\Student Manegment new\Student_management\Student_management\obj\Debug\Student_management.csproj.CoreCompileInputs.cache
+D:\Mamun\Student Manegment new\Student_management\Student_management\obj\Debug\Student_management.csproj.CopyComplete
+D:\Mamun\Student Manegment new\Student_management\Student_management\obj\Debug\Student_management.dll
+D:\Mamun\Student Manegment new\Student_management\Student_management\obj\Debug\Student_management.pdb
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Student_management.dll.config
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Student_management.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Student_management.pdb
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\csc.exe
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\csc.exe.config
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\csc.rsp
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\csi.exe
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\csi.exe.config
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\csi.rsp
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.AppContext.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Console.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.IO.Compression.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Net.Http.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.ValueTuple.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\vbc.exe
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\vbc.exe.config
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\vbc.rsp
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\VBCSCompiler.exe
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Antlr3.Runtime.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Newtonsoft.Json.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\System.Web.Optimization.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\WebGrease.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\System.Web.Optimization.xml
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Newtonsoft.Json.xml
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Antlr3.Runtime.pdb
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SST-2\Desktop\Student_management\Student_management\obj\Debug\Student_management.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\obj\Debug\Student_management.pdb
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\obj\Debug\Student_management.csproj.AssemblyReference.cache
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\obj\Debug\Student_management.csproj.CoreCompileInputs.cache
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\obj\Debug\Student_management.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\obj\Debug\Student_management.pdb
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Student_management.dll.config
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Student_management.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Student_management.pdb
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\csc.exe
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\csc.exe.config
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\csc.rsp
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\csi.exe
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\csi.exe.config
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\csi.rsp
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.AppContext.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Console.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.IO.Compression.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Net.Http.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.ValueTuple.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\vbc.exe
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\vbc.exe.config
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\vbc.rsp
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\VBCSCompiler.exe
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Antlr3.Runtime.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Newtonsoft.Json.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\System.Web.Optimization.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\WebGrease.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\System.Web.Optimization.xml
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Newtonsoft.Json.xml
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Antlr3.Runtime.pdb
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mdmam\OneDrive\Desktop\Student_management\Student_management\obj\Debug\Student_management.csproj.CopyComplete
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportSource.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.Shared.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.Web.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\bin\stdole.dll
+C:\Users\SST-2\Desktop\Student_management\Student_management\obj\Debug\Student_management.csproj.AssemblyReference.cache
+C:\Users\SST-2\Desktop\Student_management\Student_management\obj\Debug\Student_management.csproj.CoreCompileInputs.cache
+C:\Users\SST-2\Desktop\Student_management\Student_management\obj\Debug\Student_management.csproj.CopyComplete
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Student_management.dll.config
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Student_management.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Student_management.pdb
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\csc.exe
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\csc.exe.config
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\csc.rsp
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\csi.exe
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\csi.exe.config
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\csi.rsp
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.AppContext.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Console.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.IO.Compression.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Net.Http.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.ValueTuple.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\vbc.exe
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\vbc.exe.config
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\vbc.rsp
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\VBCSCompiler.exe
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Antlr3.Runtime.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportSource.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.Shared.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.Web.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Newtonsoft.Json.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\System.Web.Optimization.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\WebGrease.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\stdole.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\System.Web.Optimization.xml
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Newtonsoft.Json.xml
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Antlr3.Runtime.pdb
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\obj\Debug\Student_management.csproj.AssemblyReference.cache
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\obj\Debug\Student_management.csproj.CoreCompileInputs.cache
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\obj\Debug\Student_management.csproj.CopyComplete
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\obj\Debug\Student_management.dll
+C:\Users\mdmam\OneDrive\Desktop\new Exist\Student_management\Student_management\obj\Debug\Student_management.pdb
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Student_management.dll.config
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Student_management.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Student_management.pdb
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\csc.exe
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\csc.exe.config
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\csc.rsp
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\csi.exe
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\csi.exe.config
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\csi.rsp
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.AppContext.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Console.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.IO.Compression.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Net.Http.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.ValueTuple.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\vbc.exe
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\vbc.exe.config
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\vbc.rsp
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\VBCSCompiler.exe
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Antlr3.Runtime.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportSource.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.Shared.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.Web.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Newtonsoft.Json.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\System.Web.Optimization.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\WebGrease.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\stdole.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\System.Web.Optimization.xml
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Newtonsoft.Json.xml
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Antlr3.Runtime.pdb
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\obj\Debug\Student_management.csproj.AssemblyReference.cache
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\obj\Debug\Student_management.csproj.CoreCompileInputs.cache
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\obj\Debug\Student_management.csproj.CopyComplete
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\obj\Debug\Student_management.dll
+C:\Users\SST-2\Desktop\Student_management BLL DAL\Student_management\obj\Debug\Student_management.pdb
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Student_management.dll.config
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Student_management.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Student_management.pdb
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\csc.exe
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\csc.exe.config
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\csc.rsp
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\csi.exe
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\csi.exe.config
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\csi.rsp
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.AppContext.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Console.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.IO.Compression.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Net.Http.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.ValueTuple.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\vbc.exe
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\vbc.exe.config
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\vbc.rsp
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\VBCSCompiler.exe
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Antlr3.Runtime.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportSource.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.Shared.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.Web.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Newtonsoft.Json.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\System.Web.Optimization.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\WebGrease.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\stdole.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\System.Web.Optimization.xml
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Newtonsoft.Json.xml
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Antlr3.Runtime.pdb
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\obj\Debug\Student_management.csproj.AssemblyReference.cache
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\obj\Debug\Student_management.csproj.CoreCompileInputs.cache
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\obj\Debug\Student_management.csproj.CopyComplete
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\obj\Debug\Student_management.dll
+C:\Users\mdmam\OneDrive\Desktop\Student_management BLL DAL\Student_management\obj\Debug\Student_management.pdb
+I:\New folder\Student_management BLL DAL\Student_management\bin\Student_management.dll.config
+I:\New folder\Student_management BLL DAL\Student_management\bin\Student_management.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\Student_management.pdb
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\csc.exe
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\csc.exe.config
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\csc.rsp
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\csi.exe
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\csi.exe.config
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\csi.rsp
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.Managed.Core.targets
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.AppContext.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Collections.Immutable.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Console.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Globalization.Calendars.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.IO.Compression.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.IO.FileSystem.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Net.Http.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Net.Sockets.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Reflection.Metadata.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.ValueTuple.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Xml.XmlDocument.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Xml.XPath.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\vbc.exe
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\vbc.exe.config
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\vbc.rsp
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\VBCSCompiler.exe
+I:\New folder\Student_management BLL DAL\Student_management\bin\roslyn\VBCSCompiler.exe.config
+I:\New folder\Student_management BLL DAL\Student_management\bin\Antlr3.Runtime.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\AspNet.ScriptManager.bootstrap.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\AspNet.ScriptManager.jQuery.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.CrystalReports.Engine.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportSource.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.Shared.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.Web.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\Microsoft.ScriptManager.WebForms.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\Microsoft.Web.Infrastructure.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\Newtonsoft.Json.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\System.Web.Optimization.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\WebGrease.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\stdole.dll
+I:\New folder\Student_management BLL DAL\Student_management\bin\System.Web.Optimization.xml
+I:\New folder\Student_management BLL DAL\Student_management\bin\Newtonsoft.Json.xml
+I:\New folder\Student_management BLL DAL\Student_management\bin\Antlr3.Runtime.pdb
+I:\New folder\Student_management BLL DAL\Student_management\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\New folder\Student_management BLL DAL\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\New folder\Student_management BLL DAL\Student_management\obj\Debug\Student_management.csproj.AssemblyReference.cache
+I:\New folder\Student_management BLL DAL\Student_management\obj\Debug\Student_management.csproj.CoreCompileInputs.cache
+I:\New folder\Student_management BLL DAL\Student_management\obj\Debug\Student_management.csproj.CopyComplete
+I:\New folder\Student_management BLL DAL\Student_management\obj\Debug\Student_management.dll
+I:\New folder\Student_management BLL DAL\Student_management\obj\Debug\Student_management.pdb
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Student_management.dll.config
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Student_management.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Student_management.pdb
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\csc.exe
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\csc.exe.config
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\csc.rsp
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\csi.exe
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\csi.exe.config
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\csi.rsp
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.AppContext.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Console.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.IO.Compression.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Net.Http.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.ValueTuple.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\vbc.exe
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\vbc.exe.config
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\vbc.rsp
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\VBCSCompiler.exe
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Antlr3.Runtime.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportSource.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.Shared.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.Web.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Newtonsoft.Json.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\System.Web.Optimization.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\WebGrease.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\stdole.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\System.Web.Optimization.xml
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Newtonsoft.Json.xml
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Antlr3.Runtime.pdb
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SST-2\Desktop\New edit update\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SST-2\Desktop\New edit update\Student_management\obj\Debug\Student_management.csproj.AssemblyReference.cache
+C:\Users\SST-2\Desktop\New edit update\Student_management\obj\Debug\Student_management.csproj.CoreCompileInputs.cache
+C:\Users\SST-2\Desktop\New edit update\Student_management\obj\Debug\Student_management.csproj.CopyComplete
+C:\Users\SST-2\Desktop\New edit update\Student_management\obj\Debug\Student_management.dll
+C:\Users\SST-2\Desktop\New edit update\Student_management\obj\Debug\Student_management.pdb
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Student_management.dll.config
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Student_management.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Student_management.pdb
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\csc.exe
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\csc.exe.config
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\csc.rsp
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\csi.exe
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\csi.exe.config
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\csi.rsp
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.AppContext.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Console.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.IO.Compression.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Net.Http.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.ValueTuple.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\vbc.exe
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\vbc.exe.config
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\vbc.rsp
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\VBCSCompiler.exe
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Antlr3.Runtime.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportSource.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.Shared.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.Web.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Newtonsoft.Json.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\System.Web.Optimization.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\WebGrease.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\stdole.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\System.Web.Optimization.xml
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Newtonsoft.Json.xml
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Antlr3.Runtime.pdb
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\obj\Debug\Student_management.csproj.AssemblyReference.cache
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\obj\Debug\Student_management.csproj.CoreCompileInputs.cache
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\obj\Debug\Student_management.csproj.CopyComplete
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\obj\Debug\Student_management.dll
+C:\Users\SST-2\Desktop\New folder\New edit update\Student_management\obj\Debug\Student_management.pdb
+I:\C#\new project\New edit updatelast\Student_management\bin\Student_management.dll.config
+I:\C#\new project\New edit updatelast\Student_management\bin\Student_management.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\Student_management.pdb
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\csc.exe
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\csc.exe.config
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\csc.rsp
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\csi.exe
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\csi.exe.config
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\csi.rsp
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\Microsoft.Managed.Core.targets
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.AppContext.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Collections.Immutable.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Console.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Globalization.Calendars.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.IO.Compression.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.IO.FileSystem.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Net.Http.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Net.Sockets.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Reflection.Metadata.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.ValueTuple.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Xml.XmlDocument.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Xml.XPath.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\vbc.exe
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\vbc.exe.config
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\vbc.rsp
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\VBCSCompiler.exe
+I:\C#\new project\New edit updatelast\Student_management\bin\roslyn\VBCSCompiler.exe.config
+I:\C#\new project\New edit updatelast\Student_management\bin\Antlr3.Runtime.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\AspNet.ScriptManager.bootstrap.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\AspNet.ScriptManager.jQuery.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\Microsoft.ScriptManager.WebForms.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\Microsoft.Web.Infrastructure.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\Newtonsoft.Json.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\System.Web.Optimization.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\WebGrease.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\C#\new project\New edit updatelast\Student_management\bin\System.Web.Optimization.xml
+I:\C#\new project\New edit updatelast\Student_management\bin\Newtonsoft.Json.xml
+I:\C#\new project\New edit updatelast\Student_management\bin\Antlr3.Runtime.pdb
+I:\C#\new project\New edit updatelast\Student_management\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\C#\new project\New edit updatelast\Student_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\C#\new project\New edit updatelast\Student_management\obj\Debug\Student_management.csprojResolveAssemblyReference.cache
+I:\C#\new project\New edit updatelast\Student_management\obj\Debug\Student_management.dll
+I:\C#\new project\New edit updatelast\Student_management\obj\Debug\Student_management.pdb
